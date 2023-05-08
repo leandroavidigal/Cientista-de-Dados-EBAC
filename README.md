@@ -2,7 +2,7 @@
 
 O curso de Cientista de Dados da EBAC é uma formação online que tem como objetivo capacitar os alunos para atuar como profissionais da área de dados, desde a coleta e análise até a interpretação e comunicação dos resultados.
 
-O curso é composto de 40 módulos contidos em 10 partes, que abrangem tanto a teoria quanto a prática da Ciência de Dados. As partes são:
+O curso é composto de 38 módulos contidos em 10 partes, que abrangem tanto a teoria quanto a prática da Ciência de Dados. As partes são:
 
 1. Fundamentos da Ciência de Dados: nesse módulo, o aluno aprende os conceitos básicos da área, como tipos de dados, etapas do processo de análise e ferramentas utilizadas.
 
