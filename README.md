@@ -1,25 +1,64 @@
-# Cientista de Dados
+# Readme do Curso de Cientista de Dados
 
-O curso de Cientista de Dados da EBAC é uma formação online que tem como objetivo capacitar os alunos para atuar como profissionais da área de dados, desde a coleta e análise até a interpretação e comunicação dos resultados.
+Bem-vindo ao repositório do GitHub do meu Curso de Cientista de Dados! Este curso é estruturado em 38 módulos que cobrem uma ampla gama de tópicos relevantes para se tornar um cientista de dados competente. Aqui, você encontrará materiais, tarefas, projetos e muito mais.
 
-O curso é composto de 38 módulos contidos em 10 partes, que abrangem tanto a teoria quanto a prática da Ciência de Dados. As partes são:
+## Visão Geral do Curso
 
-1. Fundamentos da Ciência de Dados: nesse módulo, o aluno aprende os conceitos básicos da área, como tipos de dados, etapas do processo de análise e ferramentas utilizadas.
+O currículo é projetado para fornecer uma compreensão abrangente da ciência de dados, começando pelos fundamentos do Python e Numpy, passando pela manipulação de dados com Pandas, até técnicas avançadas de modelagem e machine learning.
 
-2. Estatística Descritiva: aqui, o foco é na análise exploratória dos dados, por meio de técnicas estatísticas descritivas.
+### Conteúdo do Curso:
 
-3. Probabilidade e Inferência Estatística: nesse módulo, o aluno aprende sobre as principais técnicas de inferência estatística, como testes de hipóteses e intervalos de confiança.
+- **Módulo 1:** Perspectiva de Carreira
+- **Módulo 2:** Metodologia
+- **Módulo 3:** Elementos básicos de Python e Numpy - Partes I e II
+- **Módulo 4:** Introdução ao Pandas e carga de dados
+- **Módulo 5:** Limpeza e preparação de dados
+- **Módulo 6:** Descritiva I
+- **Módulo 7:** Árvore I
+- **Módulo 8:** Git / GitHub - Controle de versionamento
+- **Módulo 9:** TdD III - Agregações e operações em grupos
+- **Módulo 10:** Descritiva II - Análise descritiva para resposta contínua
+- **Módulo 11:** Árvores II (Parte I: árvore de regressão)
+- **Módulo 12:** Regressão I
+- **Módulo 13:** Regressão II
+- **Módulo 14:** Scripting
+- **Módulo 15:** Streamlit I
+- **Módulo 16:** TdD IV - Pandas avançado
+- **Módulo 17:** Árvore II (Parte II: árvore de classificação)
+- **Módulo 18:** Regressão Logística I
+- **Módulo 19:** Streamlit II
+- **Módulo 20:** Markdown / Terminal
+- **Módulo 21:** TdD V - SQL
+- **Módulo 22:** Descritiva III - Gráficos interativos
+- **Módulo 23:** Combinação de modelos I
+- **Módulo 24:** Combinação de modelos II
+- **Módulo 25:** Cálculo
+- **Módulo 26:** Algelin
+- **Módulo 27:** PCA
+- **Módulo 28:** Streamlit III, IV
+- **Módulo 29:** K-means
+- **Módulo 30:** Hierárquicos / aglomerativos
+- **Módulo 31:** Streamlit V
+- **Módulo 32:** Probabilidade
+- **Módulo 33:** Inferência
+- **Módulo 34:** Regressão III
+- **Módulo 35:** Regressão IV
+- **Módulo 36:** Descritiva IV - Visualização de dados categorizados
+- **Módulo 37:** Regressão Logística II
+- **Módulo 38:** Streamlit VI e Pycaret
 
-4. Aprendizado de Máquina: esse é um dos módulos mais importantes do curso, em que o aluno aprende sobre as técnicas de Machine Learning, como regressão, classificação e clusterização.
+Cada módulo inclui leituras, exemplos de códigos, notebooks, e desafios práticos. O curso é intensivo e é esperado que os alunos se dediquem para acompanhar o ritmo acelerado.
 
-5. Python para Data Science: aqui, o aluno aprende a linguagem de programação Python, utilizada amplamente na área de Ciência de Dados.
+## Contribuições
 
-6. Manipulação e Visualização de Dados com Python: esse módulo ensina como manipular e visualizar dados com Python, utilizando bibliotecas como Pandas e Matplotlib.
+Sinta-se à vontade para fazer fork do repositório, enviar pull requests ou criar issues para discutir mudanças ou adicionar conteúdo.
 
-7. Aprendizado de Máquina com Python: nesse módulo, o aluno aprofunda seus conhecimentos em Machine Learning, utilizando a biblioteca Scikit-learn.
+## Licença
 
-8. Big Data: esse módulo aborda o processamento de grandes volumes de dados, por meio de tecnologias como Hadoop e Spark.
+Este projeto está licenciado sob a licença MIT - veja o arquivo `LICENSE.md` para detalhes.
 
-9. Deep Learning: aqui, o foco é nas técnicas de Deep Learning, como Redes Neurais Artificiais, utilizadas em problemas mais complexos.
+## Contato
 
-10. Projeto Final
+Se você tiver qualquer dúvida sobre o curso ou o conteúdo do repositório, por favor, abra uma issue ou entre em contato diretamente comigo.
+
+Boa aprendizagem e bons estudos!
