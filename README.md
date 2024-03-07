@@ -1,4 +1,4 @@
-# Readme do Curso de Cientista de Dados
+# Curso de Cientista de Dados
 
 Bem-vindo ao repositório do GitHub do meu Curso de Cientista de Dados! Este curso é estruturado em 38 módulos que cobrem uma ampla gama de tópicos relevantes para se tornar um cientista de dados competente. Aqui, você encontrará materiais, tarefas, projetos e muito mais.
 
